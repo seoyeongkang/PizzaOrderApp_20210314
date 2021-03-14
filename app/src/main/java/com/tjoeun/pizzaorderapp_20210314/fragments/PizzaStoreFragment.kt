@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.tjoeun.pizzaorderapp_20210314.R
 
-class PizzaStoreFragments : Fragment() {
+class PizzaStoreFragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater,
